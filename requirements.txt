@@ -1,4 +1,4 @@
 Flask
 Flask-RESTful
-pyodbc
+python-pyodbc
 uwsgi
