@@ -2,3 +2,7 @@ Flask
 Flask-RESTful
 Flask-SQLAlchemy
 uwsgi
+unixodbc
+unixodbc-dev
+python-pyodbc
+libsqliteodbc
